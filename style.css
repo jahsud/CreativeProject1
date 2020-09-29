@@ -1,5 +1,12 @@
+.jumbotron {
+    color: #f8f8ff !important;
+    margin-bottom: 0 !important;
+    background-image: url("images/banner.jpg");
+    background-size: cover;
+    height: 100%;
+}
 
-.fakeimg {
-    height: 200px;
-    background: #aaa;
+.trn {
+    background-color: transparent !important;
+    z-index: 99 !important;
 }
